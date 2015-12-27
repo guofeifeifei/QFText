@@ -1,23 +1,22 @@
 //
-//  OneViewController.m
+//  TwoViewController.m
 //  textQF
 //
-//  Created by scjy on 15/12/26.
-//  Copyright (c) 2015年 郭飞飞. All rights reserved.
+//  Created by scjy on 15/12/27.
+//  Copyright © 2015年 郭飞飞. All rights reserved.
 //
 
-#import "OneViewController.h"
+#import "TwoViewController.h"
 
-@interface OneViewController ()
+@interface TwoViewController ()
 
 @end
 
-@implementation OneViewController
+@implementation TwoViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
-    self.view.backgroundColor = [UIColor cyanColor];
 }
 
 - (void)didReceiveMemoryWarning {

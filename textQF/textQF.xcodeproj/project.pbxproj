@@ -13,6 +13,7 @@
 		7A4DCBC81C2EB04800020D50 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A4DCBC61C2EB04800020D50 /* LaunchScreen.xib */; };
 		7A4DCBD41C2EB04800020D50 /* textQFTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A4DCBD31C2EB04800020D50 /* textQFTests.m */; };
 		7A4DCBDF1C2EB32700020D50 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A4DCBDE1C2EB32700020D50 /* OneViewController.m */; };
+		7AE0BB2B1C2F8BBA00942FF7 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7AE0BB2A1C2F8BBA00942FF7 /* TwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,8 @@
 		7A4DCBD31C2EB04800020D50 /* textQFTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textQFTests.m; sourceTree = "<group>"; };
 		7A4DCBDD1C2EB32700020D50 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
 		7A4DCBDE1C2EB32700020D50 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
+		7AE0BB291C2F8BBA00942FF7 /* TwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		7AE0BB2A1C2F8BBA00942FF7 /* TwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +85,8 @@
 				7A4DCBDE1C2EB32700020D50 /* OneViewController.m */,
 				7A4DCBDD1C2EB32700020D50 /* OneViewController.h */,
 				7A4DCBC11C2EB04800020D50 /* AppDelegate.h */,
+				7AE0BB291C2F8BBA00942FF7 /* TwoViewController.h */,
+				7AE0BB2A1C2F8BBA00942FF7 /* TwoViewController.m */,
 				7A4DCBC21C2EB04800020D50 /* AppDelegate.m */,
 				7A4DCBC41C2EB04800020D50 /* Images.xcassets */,
 				7A4DCBC61C2EB04800020D50 /* LaunchScreen.xib */,
@@ -218,6 +223,7 @@
 				7A4DCBDF1C2EB32700020D50 /* OneViewController.m in Sources */,
 				7A4DCBC31C2EB04800020D50 /* AppDelegate.m in Sources */,
 				7A4DCBC01C2EB04800020D50 /* main.m in Sources */,
+				7AE0BB2B1C2F8BBA00942FF7 /* TwoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
