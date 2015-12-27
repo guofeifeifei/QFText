@@ -12,6 +12,7 @@
 		7A4DCBC51C2EB04800020D50 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A4DCBC41C2EB04800020D50 /* Images.xcassets */; };
 		7A4DCBC81C2EB04800020D50 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7A4DCBC61C2EB04800020D50 /* LaunchScreen.xib */; };
 		7A4DCBD41C2EB04800020D50 /* textQFTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A4DCBD31C2EB04800020D50 /* textQFTests.m */; };
+		7A4DCBDF1C2EB32700020D50 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A4DCBDE1C2EB32700020D50 /* OneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +36,8 @@
 		7A4DCBCD1C2EB04800020D50 /* textQFTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = textQFTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7A4DCBD21C2EB04800020D50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7A4DCBD31C2EB04800020D50 /* textQFTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = textQFTests.m; sourceTree = "<group>"; };
+		7A4DCBDD1C2EB32700020D50 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		7A4DCBDE1C2EB32700020D50 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +79,8 @@
 		7A4DCBBC1C2EB04800020D50 /* textQF */ = {
 			isa = PBXGroup;
 			children = (
+				7A4DCBDE1C2EB32700020D50 /* OneViewController.m */,
+				7A4DCBDD1C2EB32700020D50 /* OneViewController.h */,
 				7A4DCBC11C2EB04800020D50 /* AppDelegate.h */,
 				7A4DCBC21C2EB04800020D50 /* AppDelegate.m */,
 				7A4DCBC41C2EB04800020D50 /* Images.xcassets */,
@@ -210,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A4DCBDF1C2EB32700020D50 /* OneViewController.m in Sources */,
 				7A4DCBC31C2EB04800020D50 /* AppDelegate.m in Sources */,
 				7A4DCBC01C2EB04800020D50 /* main.m in Sources */,
 			);
